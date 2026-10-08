@@ -46,7 +46,6 @@ Webentwicklung mit Laravel, Betrieb auf nginx.
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge)
-![BSI IT-Grundschutz](https://img.shields.io/badge/BSI_IT--Grundschutz-1F3A60?style=for-the-badge)
 
 ---
 
@@ -54,14 +53,13 @@ Webentwicklung mit Laravel, Betrieb auf nginx.
 
 | Bereich | Stand |
 |---|---|
-| Linux-Administration (CLI, Debian/Ubuntu) | 🟢 sicher im Alltag |
-| Netzwerk (Cisco, VLAN, Routing, ACL, NAT) | 🟢 solide · CCNA in Vorbereitung |
+| Linux-Administration (CLI, Debian/Ubuntu) | 🟢 viel Praxis |
+| Netzwerk (Cisco, VLAN, Routing, ACL, NAT) | 🟢 solide Grundlagen · CCNA in Vorbereitung |
 | Virtualisierung (VMware Workstation & vSphere) | 🟢 sicher |
 | Clientmanagement (opsi, PXE, Imaging) | 🟢 Abschlussprojekt |
 | Windows & Active Directory | 🟡 praktische Erfahrung |
-| Webserver (nginx, Apache) | 🟡 betreut und betrieben |
-| Informationssicherheit (BSI IT-Grundschutz, verinice) | 🟡 Sicherheitsanalysen erstellt |
-| Docker | 🟡 Lab-Umgebungen aufgebaut |
+| Webserver (nginx, Apache) | 🟡 betrieben, KI-gestützt |
+| Docker | 🟡 Grundlagen, KI-gestützt |
 | Python, Bash, PowerShell | 🟡 Grundlagen, Python KI-gestützt |
 | Monitoring (Checkmk), SIEM (Wazuh) | 🔵 lerne ich gerade |
 
